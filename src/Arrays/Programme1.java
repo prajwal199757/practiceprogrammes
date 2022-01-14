@@ -11,7 +11,7 @@ public class Programme1 {
         for (int i=s3.length-1;i>=0 ;i--)
         {
             s2=s2.append(s3[i]);
-
+            System.out.println(s2);
 
         }
         System.out.println(s2);
